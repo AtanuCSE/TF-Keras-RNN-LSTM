@@ -1,4 +1,4 @@
-# TF-Keras-RNN-LSTM
+# Tensorflow-Keras-RNN-LSTM
 Learning Tensorflow, Keras, Recurrent Neural Network, LSTM
 
 This code is learned from the following tutorial

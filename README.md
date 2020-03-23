@@ -17,3 +17,5 @@ Time-series
 Validation
 
 Prediction
+
+Forcasting
